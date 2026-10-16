@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Local artifacts / caches
+.mpl/
+.pytest_cache/
+*.log
+
+# Trained model (regenerate with `python train.py`)
+model.pkl
+
+# OS
+.DS_Store
+Thumbs.db
