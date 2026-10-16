@@ -71,5 +71,4 @@ python make_report.py   # builds Freight_Rate_Report.docx (includes the December
 | `make_report.py` | EDA + generates `Freight_Rate_Report.docx` |
 | `validation_predictions.csv` | Submission file (`load_id,predicted_rate`, 12,000 rows) |
 | `Freight_Rate_Report.docx` | Submission report with the fixed December chart |
-| `LOOM_SCRIPT.md` | Talking points / script for the 2-3 minute Loom video |
 
